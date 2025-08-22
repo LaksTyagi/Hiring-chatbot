@@ -1,0 +1,32 @@
+[
+  {
+    "full_name": "Aryan Kakran",
+    "experience_years": 1.0,
+    "desired_position": "Machine Learning",
+    "location": "Meerut",
+    "tech_stack": "Python, Machine Learning, Deep Learning, GenarativeAI, Langchain, Numpy, Pandas, SQL, PowerBI",
+    "email_hash": "e337492e4dc439b439e407cdf430ec812153829ef923ed881f5eea552c5c2685",
+    "phone_hash": "d2c469453ec438715182f8a71c011a5124427381a38757b2084c3c66af392c15",
+    "submission_time": "2025-08-22T13:51:05.510383"
+  },
+  {
+    "full_name": "Lakshaya Tyagi",
+    "experience_years": 1.0,
+    "desired_position": "ML",
+    "location": "Noida",
+    "tech_stack": "python, ML ,gen-AI,SQL ,React ,Django",
+    "email_hash": "9bfd2f914310fd1dd9d92cb39467250d786f17a6fb4d58973137748173b40c81",
+    "phone_hash": "e9ec2080645cd8e0fa33351cf16f3ad5541aafda5138aeb0cf12f76e987d125f",
+    "submission_time": "2025-08-22T14:00:20.878773"
+  },
+  {
+    "full_name": "Lakshaya Tyagi",
+    "experience_years": 1.0,
+    "desired_position": "ML",
+    "location": "Noida",
+    "tech_stack": "python, ML ,gen-AI,SQL ,React ,Django",
+    "email_hash": "9bfd2f914310fd1dd9d92cb39467250d786f17a6fb4d58973137748173b40c81",
+    "phone_hash": "e9ec2080645cd8e0fa33351cf16f3ad5541aafda5138aeb0cf12f76e987d125f",
+    "submission_time": "2025-08-22T14:00:39.814519"
+  }
+]
