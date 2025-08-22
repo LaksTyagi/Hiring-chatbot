@@ -28,3 +28,4 @@ REQUIRED_INFO = [
 # UI Configuration
 PAGE_TITLE = "TalentScout Hiring Assistant"
 PAGE_ICON = "🤖"
+
